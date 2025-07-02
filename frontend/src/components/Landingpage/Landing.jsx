@@ -19,13 +19,13 @@ const products = [
     name: "Denim Jacket",
     price: 3800,
     rating: 4.2,
-    image: "https://i.ibb.co/DHZSWPYN/denimn.jpg"
+    image: "https://i.postimg.cc/PJCtV11y/denimn.jpg"
   },
   {
     name: "Stylish Handbag",
     price: 5200,
     rating: 4.7,
-    image: "https://i.ibb.co/Wvb2LFtv/handbag.jpg"
+    image: "https://i.postimg.cc/150ThfMr/handbag.jpg"
   },
   {
     name: "Running Sneakers",
@@ -37,7 +37,7 @@ const products = [
     name: "Wool Trench Coat",
     price: 7600,
     rating: 4.6,
-    image: "https://i.ibb.co/V0RGLxML/trenchcoat.jpg"
+    image: "https://i.postimg.cc/9FBxgsFx/trenchcoat.jpg"
   },
   {
     name: "Summer Dress",
