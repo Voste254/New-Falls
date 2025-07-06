@@ -8,6 +8,7 @@ import { Route, Routes } from 'react-router-dom';
 import Landing from './components/Landingpage/Landing';
 import Signup from './components/Landingpage/Signup';
 import Login from './components/Landingpage/Login';
+import Vroom from './components/Dashboard/Vrooms';
 
 function Display() {
     const [clicked, setClicked] = useState({
@@ -34,6 +35,7 @@ function Display() {
         <Sidebar clicked={clicked} handleClick={handleClick} />
         {clicked[0] && <Home />}
         {clicked[3] && <Addpost />}
+        {clicked[1] && <Vroom />}
          <Rightbar />
       </div>
     </div>
