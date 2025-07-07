@@ -10,7 +10,6 @@ export default function Sidebar({ clicked, handleClick }) {
     { text: 'Chats', icon: 'https://i.ibb.co/XrSJCBqY/69c7572b985105af03266468412efe3122ea76ce.png' },
     { text: 'Add post', icon: 'https://i.ibb.co/QFBX6q91/pngegg-5.png' },
     { text: 'Bookmarks', icon: 'https://i.ibb.co/S4ryFypg/pngegg-6.png' },
-    { text: 'Settings', icon: 'https://i.ibb.co/YTNQ9X4x/pngegg-7.png' },
     { text: 'My cart', icon: 'https://i.ibb.co/mF1hJ4w8/pngegg-8.png' },
   ];
 
